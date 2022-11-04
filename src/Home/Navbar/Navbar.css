@@ -1,0 +1,9 @@
+.NavBar{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 80px;
+}
+.Logo img{
+      align-items: center;
+      justify-content: center;
+}

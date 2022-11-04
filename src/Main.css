@@ -1,0 +1,22 @@
+.About{
+      margin-left:25px ;
+      cursor: pointer;
+}
+li{
+      list-style: none;
+}
+.Contact{
+      margin-left: 25px;
+      cursor: pointer;
+}
+.LogIn{
+      margin-left: 25px;
+      cursor: pointer;
+}
+.Home{
+      cursor: pointer;
+      color: black;
+}
+.About,.Contact,.Home{
+      font-size: 16px;
+}

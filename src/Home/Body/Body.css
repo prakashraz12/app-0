@@ -1,0 +1,25 @@
+.body{
+ padding:0px 80px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.body .left img{
+      height: 500px;
+}
+.body .Right h1{
+      font-family: 'Pacifico',sans-serif;
+      font-weight: 400;
+      font-size: 50px;
+      color: blue;
+}
+.Right h3{
+      font-size: 16px;
+}
+.Right span{
+      color: red;
+      font-weight: bold;
+}
+.Right h5{
+      font-weight: bold;
+}

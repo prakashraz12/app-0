@@ -1,0 +1,17 @@
+button{
+      padding: 7px 15px;
+      outline: none;
+      border: none;
+      background:#0077b6;
+      color: aliceblue;
+      cursor: pointer;
+      font-size: 16px;
+      transition: 0.3s all ease-in-out;
+}
+button:hover{
+      background: white;
+      color: #0077b6;
+      border: blue 0.1px solid;
+      transition: all 0.3s ease;
+      border-radius: 6px;
+}
